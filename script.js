@@ -1,1 +1,103 @@
-const _0x15e099=_0x5e12;(function(_0x9955a0,_0x415340){const _0x38df2=_0x5e12,_0x281c49=_0x9955a0();while(!![]){try{const _0x1718e0=parseInt(_0x38df2(0x1ea))/(-0x456*0x9+0x1c96*-0x1+0x439d)+-parseInt(_0x38df2(0x208))/(-0xae*-0x22+0x1*0xb7f+0x11*-0x209)*(parseInt(_0x38df2(0x1e0))/(-0x8de*-0x3+0xd5b+0x1*-0x27f2))+parseInt(_0x38df2(0x1cc))/(-0x1d6*0x12+-0x253+0x2363)*(-parseInt(_0x38df2(0x1d7))/(0x258b+0x1*-0x1d2d+-0x859))+parseInt(_0x38df2(0x1c8))/(0x497+-0xde*-0x28+-0x2741)+parseInt(_0x38df2(0x20a))/(-0x9b1*0x2+-0xa9d*0x3+0x3340)+-parseInt(_0x38df2(0x1df))/(-0x1ce9*0x1+0xebd+0x1*0xe34)*(parseInt(_0x38df2(0x1d1))/(0x1513+-0x1*0xaa9+-0xa61))+parseInt(_0x38df2(0x1f7))/(0x79d+-0x1f+0x9*-0xd4);if(_0x1718e0===_0x415340)break;else _0x281c49['push'](_0x281c49['shift']());}catch(_0x551d26){_0x281c49['push'](_0x281c49['shift']());}}}(_0x1e85,-0x319b4+0x20904+-0x1*-0x3ca49));function myMenuFunction(){const _0x2c8e78=_0x5e12,_0x1466f5={'SpMOy':_0x2c8e78(0x1c6),'xxZCo':function(_0x453aae,_0x44dd3a){return _0x453aae===_0x44dd3a;},'BKiVU':_0x2c8e78(0x1c9),'IGVnN':_0x2c8e78(0x1f5)+'e'};var _0x4cc1a8=document[_0x2c8e78(0x1d0)+_0x2c8e78(0x1f1)](_0x1466f5[_0x2c8e78(0x1dc)]);_0x1466f5[_0x2c8e78(0x1fd)](_0x4cc1a8[_0x2c8e78(0x1cf)],_0x1466f5[_0x2c8e78(0x1de)])?_0x4cc1a8[_0x2c8e78(0x1cf)]+=_0x1466f5[_0x2c8e78(0x1e8)]:_0x4cc1a8[_0x2c8e78(0x1cf)]=_0x1466f5[_0x2c8e78(0x1de)];}window[_0x15e099(0x203)]=function(){const _0x2ffdd8=_0x15e099,_0xf1dee4={'Cxexu':function(_0x590ec7){return _0x590ec7();}};_0xf1dee4[_0x2ffdd8(0x201)](headerShadow);};function headerShadow(){const _0x300163=_0x15e099,_0x22f9d3={'TCldr':_0x300163(0x1e6),'cgFIZ':function(_0x1a4795,_0x2f5749){return _0x1a4795>_0x2f5749;},'mlloW':function(_0x16e95f,_0x5a6dbe){return _0x16e95f>_0x5a6dbe;},'yUzkd':_0x300163(0x1ba)+_0x300163(0x1f9)+_0x300163(0x204),'JpwNo':_0x300163(0x1e7),'flsQS':_0x300163(0x1eb),'mlOhJ':_0x300163(0x1b6)},_0x3dadc0=document[_0x300163(0x1d0)+_0x300163(0x1f1)](_0x22f9d3[_0x300163(0x20c)]);_0x22f9d3[_0x300163(0x1bb)](document[_0x300163(0x1d8)][_0x300163(0x1c2)],-0x22*-0xeb+-0x2*-0x6d4+-0x2cac)||_0x22f9d3[_0x300163(0x1ff)](document[_0x300163(0x1ca)+_0x300163(0x1b8)][_0x300163(0x1c2)],0x482+0x54f+-0x99f)?(_0x3dadc0[_0x300163(0x1d5)][_0x300163(0x1c4)]=_0x22f9d3[_0x300163(0x1e1)],_0x3dadc0[_0x300163(0x1d5)][_0x300163(0x200)]=_0x22f9d3[_0x300163(0x1fa)],_0x3dadc0[_0x300163(0x1d5)][_0x300163(0x1bf)]=_0x22f9d3[_0x300163(0x1fa)]):(_0x3dadc0[_0x300163(0x1d5)][_0x300163(0x1c4)]=_0x22f9d3[_0x300163(0x20d)],_0x3dadc0[_0x300163(0x1d5)][_0x300163(0x200)]=_0x22f9d3[_0x300163(0x207)],_0x3dadc0[_0x300163(0x1d5)][_0x300163(0x1bf)]=_0x22f9d3[_0x300163(0x207)]);}var typingEffect=new Typed(_0x15e099(0x1c3),{'strings':[_0x15e099(0x1bc),_0x15e099(0x1fb),_0x15e099(0x1bd)],'loop':!![],'typeSpeed':0x64,'backSpeed':0x50,'backDelay':0x7d0});const sr=ScrollReveal({'origin':_0x15e099(0x1ec),'distance':_0x15e099(0x1f8),'duration':0x7d0,'reset':!![]});sr[_0x15e099(0x1b7)](_0x15e099(0x1f4)+_0x15e099(0x1e4),{}),sr[_0x15e099(0x1b7)](_0x15e099(0x1f4)+_0x15e099(0x209),{'delay':0x64}),sr[_0x15e099(0x1b7)](_0x15e099(0x1f4)+_0x15e099(0x205),{'delay':0xc8}),sr[_0x15e099(0x1b7)](_0x15e099(0x1f4)+_0x15e099(0x1c1),{'delay':0xc8}),sr[_0x15e099(0x1b7)](_0x15e099(0x1be)+_0x15e099(0x1c5),{'delay':0xc8}),sr[_0x15e099(0x1b7)](_0x15e099(0x1f4)+_0x15e099(0x1c0),{'delay':0x12c}),sr[_0x15e099(0x1b7)](_0x15e099(0x1da)+'ox',{'interval':0xc8}),sr[_0x15e099(0x1b7)](_0x15e099(0x202)+'r',{});const srLeft=ScrollReveal({'origin':_0x15e099(0x1f3),'distance':_0x15e099(0x1f8),'duration':0x7d0,'reset':!![]});function _0x1e85(){const _0x54c1f9=['text-btn','scrollTop','.typedText','boxShadow','ons','myNavMenu','rol','1148280ylruxD','nav-menu','documentEl','active-lin','4IQFrkw','MtgLr','EXGHr','className','getElement','10314UIghlM','pYlAl','.about-inf','forEach','style','.skills-bo','409745WAWwyh','body','MbUsk','.project-b','classList','SpMOy','torAll','BKiVU','1192zXBeAs','267198DFHkxk','yUzkd','add','nfo','text-card','getAttribu','header','70px','IGVnN','stener','217674xWqpfc','none','top','offsetTop','.form-cont','a[href*=','right','ById','section[id','left','.featured-','\x20responsiv','querySelec','1462590DGYxjZ','80px','rgba(0,\x200,','JpwNo','Freelancer','eKBvv','xxZCo','.nav-menu\x20','mlloW','height','Cxexu','.top-heade','onscroll','\x200,\x200.1)','text-info','kRhva','mlOhJ','8xfJpkh','name','1625673MZnQYe','addEventLi','TCldr','flsQS','scrollY','remove','BoToj','scroll','.contact-i','tor','90px','reveal','ement','offsetHeig','0\x201px\x206px\x20','cgFIZ','Developer','Designer','.social_ic','lineHeight','image'];_0x1e85=function(){return _0x54c1f9;};return _0x1e85();}srLeft[_0x15e099(0x1b7)](_0x15e099(0x1d3)+'o',{'delay':0x64}),srLeft[_0x15e099(0x1b7)](_0x15e099(0x1b4)+_0x15e099(0x1e3),{'delay':0x64});const srRight=ScrollReveal({'origin':_0x15e099(0x1f0),'distance':_0x15e099(0x1f8),'duration':0x7d0,'reset':!![]});srRight[_0x15e099(0x1b7)](_0x15e099(0x1d6)+'x',{'delay':0x64}),srRight[_0x15e099(0x1b7)](_0x15e099(0x1ee)+_0x15e099(0x1c7),{'delay':0x64});const sections=document[_0x15e099(0x1f6)+_0x15e099(0x1dd)](_0x15e099(0x1f2)+']');function _0x5e12(_0x20b5af,_0x2f18d8){const _0xe1a44f=_0x1e85();return _0x5e12=function(_0x54b70f,_0x4279e7){_0x54b70f=_0x54b70f-(-0xb8c+0x2333*0x1+-0x15f3);let _0x56ee11=_0xe1a44f[_0x54b70f];return _0x56ee11;},_0x5e12(_0x20b5af,_0x2f18d8);}function scrollActive(){const _0x3f56ef=_0x15e099,_0x379a0c={'MtgLr':function(_0x22d4e0,_0x597a8b){return _0x22d4e0-_0x597a8b;},'EXGHr':function(_0x16cd68,_0x2e18d9){return _0x16cd68>_0x2e18d9;},'BoToj':function(_0xbb8fd,_0x5afd6d){return _0xbb8fd<=_0x5afd6d;},'kRhva':function(_0xf0a128,_0x3847b4){return _0xf0a128+_0x3847b4;},'eKBvv':function(_0x25cadb,_0x36ec3e){return _0x25cadb+_0x36ec3e;},'pYlAl':_0x3f56ef(0x1fe)+_0x3f56ef(0x1ef),'MbUsk':_0x3f56ef(0x1cb)+'k'},_0x25f8a4=window[_0x3f56ef(0x20e)];sections[_0x3f56ef(0x1d4)](_0x25cd1b=>{const _0x4bfd52=_0x3f56ef,_0x4e9367=_0x25cd1b[_0x4bfd52(0x1b9)+'ht'],_0x59875b=_0x379a0c[_0x4bfd52(0x1cd)](_0x25cd1b[_0x4bfd52(0x1ed)],0x1fea*-0x1+-0x104a+0x3066),_0x4402db=_0x25cd1b[_0x4bfd52(0x1e5)+'te']('id');_0x379a0c[_0x4bfd52(0x1ce)](_0x25f8a4,_0x59875b)&&_0x379a0c[_0x4bfd52(0x210)](_0x25f8a4,_0x379a0c[_0x4bfd52(0x206)](_0x59875b,_0x4e9367))?document[_0x4bfd52(0x1f6)+_0x4bfd52(0x1b5)](_0x379a0c[_0x4bfd52(0x206)](_0x379a0c[_0x4bfd52(0x1fc)](_0x379a0c[_0x4bfd52(0x1d2)],_0x4402db),']'))[_0x4bfd52(0x1db)][_0x4bfd52(0x1e2)](_0x379a0c[_0x4bfd52(0x1d9)]):document[_0x4bfd52(0x1f6)+_0x4bfd52(0x1b5)](_0x379a0c[_0x4bfd52(0x1fc)](_0x379a0c[_0x4bfd52(0x1fc)](_0x379a0c[_0x4bfd52(0x1d2)],_0x4402db),']'))[_0x4bfd52(0x1db)][_0x4bfd52(0x20f)](_0x379a0c[_0x4bfd52(0x1d9)]);});}window[_0x15e099(0x20b)+_0x15e099(0x1e9)](_0x15e099(0x211),scrollActive);
+/**
+ * Portfolio Interactive Scripts
+ * Handles mobile menu navigation, dynamic frosted header shadow,
+ * Typed.js strings, ScrollReveal animations, and active section tracking.
+ */
+
+// --- 1. Mobile Navigation Menu Toggle ---
+function myMenuFunction() {
+    const navMenu = document.getElementById("myNavMenu");
+    if (navMenu.classList.contains("responsive")) {
+        navMenu.classList.remove("responsive");
+    } else {
+        navMenu.classList.add("responsive");
+    }
+}
+
+// --- 2. Dynamic Frosted Header Shadow on Scroll ---
+window.addEventListener("scroll", headerShadow);
+
+function headerShadow() {
+    const navHeader = document.getElementById("header");
+    if (!navHeader) return;
+
+    if (window.scrollY > 50 || document.documentElement.scrollTop > 50) {
+        navHeader.style.boxShadow = "0 8px 30px rgba(0, 0, 0, 0.45)";
+        navHeader.style.height = "70px";
+        navHeader.style.lineHeight = "70px";
+        navHeader.style.background = "rgba(10, 14, 26, 0.88)";
+    } else {
+        navHeader.style.boxShadow = "none";
+        navHeader.style.height = "80px";
+        navHeader.style.lineHeight = "80px";
+        navHeader.style.background = "rgba(10, 14, 26, 0.70)";
+    }
+}
+
+// --- 3. Typing Effect (Typed.js) ---
+const typingEffect = new Typed(".typedText", {
+    strings: ["Developer", "Designer", "Freelancer"],
+    loop: true,
+    typeSpeed: 100,
+    backSpeed: 80,
+    backDelay: 2000,
+});
+
+// --- 4. ScrollReveal Animation Controllers ---
+const sr = ScrollReveal({
+    origin: "top",
+    distance: "80px",
+    duration: 2000,
+    reset: true,
+});
+
+sr.reveal(".featured-text-card", {});
+sr.reveal(".featured-name", { delay: 100 });
+sr.reveal(".featured-text-info", { delay: 200 });
+sr.reveal(".featured-text-btn", { delay: 200 });
+sr.reveal(".social_icons", { delay: 200 });
+sr.reveal(".featured-image", { delay: 300 });
+sr.reveal(".project-box", { interval: 200 });
+sr.reveal(".top-header", {});
+
+const srLeft = ScrollReveal({
+    origin: "left",
+    distance: "80px",
+    duration: 2000,
+    reset: true,
+});
+srLeft.reveal(".about-info", { delay: 100 });
+srLeft.reveal(".contact-info", { delay: 100 });
+
+const srRight = ScrollReveal({
+    origin: "right",
+    distance: "80px",
+    duration: 2000,
+    reset: true,
+});
+srRight.reveal(".skills-box", { delay: 100 });
+srRight.reveal(".form-control", { delay: 100 });
+
+// --- 5. Active Navigation Link Highlighting on Scroll ---
+const sections = document.querySelectorAll("section[id]");
+
+function scrollActive() {
+    const scrollY = window.scrollY;
+
+    sections.forEach((current) => {
+        const sectionHeight = current.offsetHeight;
+        const sectionTop = current.offsetTop - 80;
+        const sectionId = current.getAttribute("id");
+        const targetLink = document.querySelector(`.nav-menu a[href*="${sectionId}"]`);
+
+        if (targetLink) {
+            if (scrollY > sectionTop && scrollY <= sectionTop + sectionHeight) {
+                targetLink.classList.add("active-link");
+            } else {
+                targetLink.classList.remove("active-link");
+            }
+        }
+    });
+}
+
+window.addEventListener("scroll", scrollActive);
