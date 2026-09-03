@@ -4,7 +4,7 @@
  * Typed.js strings, ScrollReveal animations, and active section tracking.
  */
 
-// --- 1. Mobile Navigation Menu Toggle ---
+// --- 1. Mobile Navigation Menu Handler (Responsive Toggle) ---
 function myMenuFunction() {
     const navMenu = document.getElementById("myNavMenu");
     if (navMenu.classList.contains("responsive")) {
@@ -38,7 +38,7 @@ function headerShadow() {
 const typingEffect = new Typed(".typedText", {
     strings: ["Developer", "Designer", "Freelancer"],
     loop: true,
-    typeSpeed: 100,
+    typeSpeed: 95,
     backSpeed: 80,
     backDelay: 2000,
 });
@@ -46,7 +46,7 @@ const typingEffect = new Typed(".typedText", {
 // --- 4. ScrollReveal Animation Controllers ---
 const sr = ScrollReveal({
     origin: "top",
-    distance: "80px",
+    distance: "75px",
     duration: 2000,
     reset: true,
 });
@@ -62,7 +62,7 @@ sr.reveal(".top-header", {});
 
 const srLeft = ScrollReveal({
     origin: "left",
-    distance: "80px",
+    distance: "90px",
     duration: 2000,
     reset: true,
 });
@@ -71,7 +71,7 @@ srLeft.reveal(".contact-info", { delay: 100 });
 
 const srRight = ScrollReveal({
     origin: "right",
-    distance: "80px",
+    distance: "90px",
     duration: 2000,
     reset: true,
 });
