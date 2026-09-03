@@ -516,7 +516,7 @@ nav#header {
     border-radius: 20px;
     padding: 24px 28px;
     margin-bottom: 20px;
-    transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    transition: all 0.3s cubic-bezier(0.2, 0.8, 0.2, 1);
 }
 
 .skills-box:hover {
