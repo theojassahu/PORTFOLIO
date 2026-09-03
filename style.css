@@ -12,7 +12,7 @@
     --glass-bg: rgba(255, 255, 255, 0.04);
     --glass-bg-hover: rgba(255, 255, 255, 0.08);
     --glass-border: rgba(255, 255, 255, 0.10);
-    --glass-border-hover: rgba(0, 210, 255, 0.45);
+    --glass-border-hover: rgba(56, 189, 248, 0.4);
     --glass-blur: 18px;
     --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
     --glass-inset-glow: inset 0 0 0 1px rgba(255, 255, 255, 0.08);
