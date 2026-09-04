@@ -26,7 +26,7 @@
     --second-color: #00b5e7;
     
     /* Typography Colors */
-    --text-color-second: #94a3b8;
+    --text-color-second: #cbd5e1; /* TEST: boosted subtitle contrast */
     --text-color-third: #00d2ff;
     --text-main: #f8fafc;
     --text-muted: #64748b;
